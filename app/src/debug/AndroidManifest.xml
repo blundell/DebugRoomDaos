@@ -1,0 +1,12 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name="com.blundell.tut.daoshop.DebugActivity"
+            android:exported="false"
+            android:label="DebugActivity"
+            android:theme="@style/Theme.DaoDebug"
+            />
+    </application>
+</manifest>
